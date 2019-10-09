@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeipierain.cridhecroisshlighe.org/sitemap.xml
